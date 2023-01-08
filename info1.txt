@@ -1,0 +1,11 @@
+Successfully created a new micro
+{
+        "name": "second_micro",
+        "id": "f5194b75-78e7-4a06-8b8a-0e402f24726a",
+        "project": "d07j83i6",
+        "runtime": "nodejs14.x",
+        "endpoint": "https://8ejo5c.deta.dev",
+        "region": "ap-south-1",
+        "visor": "disabled",
+        "http_auth": "disabled"
+}
