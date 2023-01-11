@@ -2,7 +2,7 @@
 # Hello Readers , This API is build  for MicroTask 2 given by HostelDevta
 # <u>About this microservice</u>
 <ul >
-<li style="list-style: none">The visitor count of website is a versatile visitor count and pagwview count of the website which is using a local dataabse in form of an array</li>
+<li style="list-style: none">The visitor count of website is a versatile visitor count and pagwview count of the website which is using a local database in form of an array</li>
 <li>The authentication system is designed for signIn and Signup with error handling.</li>
 <li>The authentication system uses json web token and  hashing of password with salt to provide reliable security.</li>
 <li>The database used is MongoDB</li>
