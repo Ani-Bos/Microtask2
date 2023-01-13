@@ -27,7 +27,7 @@ app.get("/", (req, res) => {
 });
 
 mongoose.connect(
-  "mongodb+srv://aniket22:aniket123456@cluster0.aug4tch.mongodb.net/microtask2?retryWrites=true&w=majority",
+  "mongodb+srv://username:password@cluster0.aug4tch.mongodb.net/microtask2?retryWrites=true&w=majority",
   () => {
     console.log("Connected to MongoDB");
   }
